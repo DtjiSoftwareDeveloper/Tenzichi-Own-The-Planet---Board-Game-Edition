@@ -26,3 +26,17 @@ Below shows the case when you run the application with no existing saved data.
 Below shows the case when you run the application with existing saved data.
 
 ![Getting Started 2](https://github.com/DtjiSoftwareDeveloper/Tenzichi-Own-The-Planet---Board-Game-Edition/blob/main/images/Getting%20Started%202.png)
+
+### Rolling The Dice
+
+Once you roll the dice, you will move between 1 to 20 steps forward inclusive. You will then be told what type of tile you landed at after you roll the dice.
+In the case in the screenshot below, the player lands on an empty space tile.
+
+![Rolling The Dice](https://github.com/DtjiSoftwareDeveloper/Tenzichi-Own-The-Planet---Board-Game-Edition/blob/main/images/Rolling%20The%20Dice.png)
+
+### Opponent's Turn
+
+When your opponent rolls the dice, he/she will move between 1 to 20 steps forward inclusive. Similarly, he/she will be told what type of tile you landed at 
+after he/she rolls the dice. In the case in the screenshot below, the player's opponent lands on a place tile but failed to buy it.
+
+![Opponent's Turn](https://github.com/DtjiSoftwareDeveloper/Tenzichi-Own-The-Planet---Board-Game-Edition/blob/main/images/Opponent's%20Turn.png)
