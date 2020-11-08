@@ -40,3 +40,9 @@ When your opponent rolls the dice, he/she will move between 1 to 20 steps forwar
 after he/she rolls the dice. In the case in the screenshot below, the player's opponent lands on a place tile but failed to buy it.
 
 ![Opponent's Turn](https://github.com/DtjiSoftwareDeveloper/Tenzichi-Own-The-Planet---Board-Game-Edition/blob/main/images/Opponent's%20Turn.png)
+
+### Shiny Zone
+
+In the screenshot below, the player's opponent lands on a shiny zone and gains a certain amount of coins and EXP.
+
+![Shiny Zone](https://github.com/DtjiSoftwareDeveloper/Tenzichi-Own-The-Planet---Board-Game-Edition/blob/main/images/Shiny%20Zone.png)
