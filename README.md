@@ -52,3 +52,21 @@ In the screenshot below, the player's opponent lands on a shiny zone and gains a
 In the screenshot below, the player wants to buy a place named "RIVERFRONT PLAZA" and successfully done so.
 
 ![Buying a Place](https://github.com/DtjiSoftwareDeveloper/Tenzichi-Own-The-Planet---Board-Game-Edition/blob/main/images/Buying%20a%20Place.png)
+
+
+### Acquiring a Place
+
+A place can be acquired if another player (either human or CPU controlled) owns it and the player rolling the dice lands on it. Successfully acquiring the place
+means that the place is upgraded and is owned by that player.
+
+### Upgrading a Place
+
+Once a player lands on a place he/she owns, he/she can upgrade it if he/she has sufficient coins.
+
+### Buying an Upgrade
+
+Once you land on an Upgrade Shop tile, you will be asked whether you want to buy an upgrade or not. The screenshot below shows that the player wants to buy the
+fifteenth upgrade in the list (i.e. 'EXP UPGRADE #7' as the list is cropped which makes some of the earlier elements not shown) and successfully done so.
+
+![Buying an Upgrade](https://github.com/DtjiSoftwareDeveloper/Tenzichi-Own-The-Planet---Board-Game-Edition/blob/main/images/Buying%20an%20Upgrade.png)
+
