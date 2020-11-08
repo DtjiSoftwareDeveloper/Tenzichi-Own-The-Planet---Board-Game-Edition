@@ -46,3 +46,9 @@ after he/she rolls the dice. In the case in the screenshot below, the player's o
 In the screenshot below, the player's opponent lands on a shiny zone and gains a certain amount of coins and EXP.
 
 ![Shiny Zone](https://github.com/DtjiSoftwareDeveloper/Tenzichi-Own-The-Planet---Board-Game-Edition/blob/main/images/Shiny%20Zone.png)
+
+### Buying a Place
+
+In the screenshot below, the player wants to buy a place named "RIVERFRONT PLAZA" and successfully done so.
+
+![Buying a Place](https://github.com/DtjiSoftwareDeveloper/Tenzichi-Own-The-Planet---Board-Game-Edition/blob/main/images/Buying%20a%20Place.png)
